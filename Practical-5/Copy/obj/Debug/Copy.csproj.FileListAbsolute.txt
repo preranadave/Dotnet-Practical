@@ -1,0 +1,5 @@
+D:\DOT NET\FileHandling\Copy\bin\Debug\Copy.exe.config
+D:\DOT NET\FileHandling\Copy\bin\Debug\Copy.exe
+D:\DOT NET\FileHandling\Copy\bin\Debug\Copy.pdb
+D:\DOT NET\FileHandling\Copy\obj\Debug\Copy.exe
+D:\DOT NET\FileHandling\Copy\obj\Debug\Copy.pdb

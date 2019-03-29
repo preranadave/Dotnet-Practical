@@ -1,0 +1,6 @@
+D:\DOT NET\FileHandling\Read\bin\Debug\Read.exe.config
+D:\DOT NET\FileHandling\Read\bin\Debug\Read.exe
+D:\DOT NET\FileHandling\Read\bin\Debug\Read.pdb
+D:\DOT NET\FileHandling\Read\obj\Debug\Read.csprojResolveAssemblyReference.cache
+D:\DOT NET\FileHandling\Read\obj\Debug\Read.exe
+D:\DOT NET\FileHandling\Read\obj\Debug\Read.pdb

@@ -1,0 +1,5 @@
+D:\DOT NET\FileHandling\List\bin\Debug\List.exe.config
+D:\DOT NET\FileHandling\List\bin\Debug\List.exe
+D:\DOT NET\FileHandling\List\bin\Debug\List.pdb
+D:\DOT NET\FileHandling\List\obj\Debug\List.exe
+D:\DOT NET\FileHandling\List\obj\Debug\List.pdb
