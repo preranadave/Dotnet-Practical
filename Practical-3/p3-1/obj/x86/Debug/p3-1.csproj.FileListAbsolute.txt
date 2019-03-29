@@ -1,0 +1,9 @@
+F:\DOT NET\p3-1\p3-1\bin\Debug\p3-1.exe
+F:\DOT NET\p3-1\p3-1\bin\Debug\p3-1.pdb
+F:\DOT NET\p3-1\p3-1\obj\x86\Debug\p3-1.exe
+F:\DOT NET\p3-1\p3-1\obj\x86\Debug\p3-1.pdb
+D:\DOT NET\p3-1\p3-1\obj\x86\Debug\p3-1.exe
+D:\DOT NET\p3-1\p3-1\obj\x86\Debug\p3-1.pdb
+D:\DOT NET\p3-1\p3-1\obj\x86\Debug\p3-1.csprojResolveAssemblyReference.cache
+D:\DOT NET\p3-1\p3-1\bin\Debug\p3-1.exe
+D:\DOT NET\p3-1\p3-1\bin\Debug\p3-1.pdb

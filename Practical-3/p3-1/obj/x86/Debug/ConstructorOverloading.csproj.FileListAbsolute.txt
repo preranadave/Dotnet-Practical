@@ -1,0 +1,2 @@
+D:\DOT NET\p3-1\p3-1\obj\x86\Debug\p3-1.exe
+D:\DOT NET\p3-1\p3-1\obj\x86\Debug\p3-1.pdb

@@ -1,0 +1,4 @@
+F:\DOT NET\p3-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\DOT NET\p3-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\DOT NET\p3-1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+F:\DOT NET\p3-1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
