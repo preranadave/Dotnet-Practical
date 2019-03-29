@@ -1,0 +1,6 @@
+D:\DOT NET\Pattern1\Pattern1\bin\Debug\Pattern1.exe.config
+D:\DOT NET\Pattern1\Pattern1\bin\Debug\Pattern1.exe
+D:\DOT NET\Pattern1\Pattern1\bin\Debug\Pattern1.pdb
+D:\DOT NET\Pattern1\Pattern1\obj\Debug\Pattern1.csprojResolveAssemblyReference.cache
+D:\DOT NET\Pattern1\Pattern1\obj\Debug\Pattern1.exe
+D:\DOT NET\Pattern1\Pattern1\obj\Debug\Pattern1.pdb
