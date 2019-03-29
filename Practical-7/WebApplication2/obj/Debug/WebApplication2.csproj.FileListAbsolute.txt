@@ -1,0 +1,10 @@
+F:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.dll
+F:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+F:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+F:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+D:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\DOT NET\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+D:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\DOT NET\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
